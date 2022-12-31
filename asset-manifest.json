@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/deploy-react-portfolio/static/css/main.0ed45e73.css",
-    "main.js": "/deploy-react-portfolio/static/js/main.69956d6b.js",
+    "main.js": "/deploy-react-portfolio/static/js/main.92ba9dd8.js",
     "static/js/787.a2cb61a6.chunk.js": "/deploy-react-portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/Japan.png": "/deploy-react-portfolio/static/media/Japan.3e405f986b29aad239bb.png",
     "static/media/Seahawksguysnight.jpeg": "/deploy-react-portfolio/static/media/Seahawksguysnight.b08728d1744cae938ff1.jpeg",
@@ -10,11 +10,11 @@
     "static/media/CoolveticaRg-Regular.woff2": "/deploy-react-portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/deploy-react-portfolio/index.html",
     "main.0ed45e73.css.map": "/deploy-react-portfolio/static/css/main.0ed45e73.css.map",
-    "main.69956d6b.js.map": "/deploy-react-portfolio/static/js/main.69956d6b.js.map",
+    "main.92ba9dd8.js.map": "/deploy-react-portfolio/static/js/main.92ba9dd8.js.map",
     "787.a2cb61a6.chunk.js.map": "/deploy-react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0ed45e73.css",
-    "static/js/main.69956d6b.js"
+    "static/js/main.92ba9dd8.js"
   ]
 }
